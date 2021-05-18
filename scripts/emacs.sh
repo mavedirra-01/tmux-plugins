@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs
+tmux new -s editor -d emacs
